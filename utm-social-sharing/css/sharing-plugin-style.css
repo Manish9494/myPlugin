@@ -1,0 +1,8 @@
+.post-share ul {
+	list-style-type: none;
+	display: inline;
+}
+.post-share ul li{
+	display: inline;
+	margin: 10px;
+}
